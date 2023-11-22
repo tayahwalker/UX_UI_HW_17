@@ -45,5 +45,7 @@ li:hover {
 ul.footer{
    background-color: #C3D9AD; 
    display: inline-block;
-   vertical-align: bottom;
+   vertical-align: top;
+   
+
 }
